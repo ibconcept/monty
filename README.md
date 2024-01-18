@@ -5,7 +5,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 Monty byte code files
 
-Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. 
+Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language.
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
